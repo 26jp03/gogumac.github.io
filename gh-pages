@@ -1,0 +1,6 @@
+git checkout -b gh-pages
+
+git add index.html
+git commit -m 'added gougmac.html'
+git push -u origin gh-pages
+cs
